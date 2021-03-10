@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="cost_of_item" label="COST OF ITEM" language="en" table="x_594725_hotel_man_foodie">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>cost_of_item</element>
+            <help/>
+            <hint/>
+            <label>COST OF ITEM</label>
+            <language>en</language>
+            <name>x_594725_hotel_man_foodie</name>
+            <plural>COST OF ITEMs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-09 09:30:50</sys_created_on>
+            <sys_id>67dc13992fb22010645fd8ddf699b6c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>COST OF ITEM</sys_name>
+            <sys_package display_value="hotel management" source="x_594725_hotel_man">b58813552fb22010645fd8ddf699b68e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="hotel management">b58813552fb22010645fd8ddf699b68e</sys_scope>
+            <sys_update_name>sys_documentation_x_594725_hotel_man_foodie_cost_of_item_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-09 09:30:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="FOODIE" max_length="40" name="x_594725_hotel_man_foodie" sizeclass="2" type="collection">
+        <element attributes="omit_sys_original=true" label="COST OF ITEM" max_length="20" name="cost_of_item" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="NAME OF FOOD" max_length="40" name="name_of_food" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="PHONE NO." max_length="15" name="phone_no" type="decimal"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
