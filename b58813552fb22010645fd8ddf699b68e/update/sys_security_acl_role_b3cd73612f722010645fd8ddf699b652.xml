@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 06:33:13</sys_created_on>
+        <sys_id>b3cd73612f722010645fd8ddf699b652</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_594725_hotel_man_newtable.x_594725_hotel_man.newtable_user</sys_name>
+        <sys_package display_value="hotel management" source="x_594725_hotel_man">b58813552fb22010645fd8ddf699b68e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hotel management">b58813552fb22010645fd8ddf699b68e</sys_scope>
+        <sys_security_acl display_value="x_594725_hotel_man_newtable">37cd73612f722010645fd8ddf699b64f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b3cd73612f722010645fd8ddf699b652</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 06:33:13</sys_updated_on>
+        <sys_user_role display_value="x_594725_hotel_man.newtable_user" name="x_594725_hotel_man.newtable_user">d7cdfb212f722010645fd8ddf699b66d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

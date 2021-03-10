@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="newtable" max_length="40" name="x_594725_hotel_man_newtable" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="newcolumn" max_length="20" name="newcolumn" type="integer"/>
+    </element>
+</database>
